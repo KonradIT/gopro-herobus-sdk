@@ -3,7 +3,7 @@
 
 Pin|Action
 -- |-------
-   |
+---|---
 1  | GND
 2  | R video out - component Pb/Cb or composite
 3  | G video out - component Y
