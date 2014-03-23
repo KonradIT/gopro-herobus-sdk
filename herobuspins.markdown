@@ -3,15 +3,15 @@
 
 Pin|Action
 ---|-------
-1| GND
+1 | GND
 
-2| R video out - component Pb/Cb or composite
+2 | R video out - component Pb/Cb or composite
 
-3| G video out - component Y
+3 | G video out - component Y
 
-4| B video out - component Pr/Cr
+4 | B video out - component Pr/Cr
 
-5| USB +5V USB power
+5 | USB +5V USB power
 
 6| USB +5V USB power
 
