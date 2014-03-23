@@ -1,6 +1,8 @@
 #Hero Bus Pins
 ![](http://i.imgur.com/0tArBVY.jpg)
 
+***
+
 Pin|Action
 ---|-------
 1  | GND
