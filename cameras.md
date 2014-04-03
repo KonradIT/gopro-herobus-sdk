@@ -11,7 +11,7 @@ The hackings of the HERO bus works on:
 
 The HERO bus structure of the HERO3 Silver and HERO3+ Silver cameras is different to the HERO bus of her sisters.
 
-Maybe the Silver camera will support a BacPac that any other GoPro camera doesnt.
+Maybe the Silver camera will support a BacPac that any other GoPro camera dont.
 
 Or it will not support a BacPac that the other cameras do.
 
