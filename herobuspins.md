@@ -21,7 +21,6 @@ Pin|Action
 14 | IN1R audio in right channel
 15 | IN1L audio in left channel
 16 | IR IN input IR receiver
-17 | TRIG ?
 18 | GND
 19 | ID1 digital input
 20 | ID2 digital input
